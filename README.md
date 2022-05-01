@@ -1,2 +1,2 @@
-# google-web-page
-I created Google main web page.
+# web-pages-projects
+This folder contain different web pages.
